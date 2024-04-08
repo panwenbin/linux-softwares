@@ -1,0 +1,1 @@
+navigator.serviceWorker&&navigator.serviceWorker.register("/linux-softwares/sw.js",{scope:"/linux-softwares/"})
